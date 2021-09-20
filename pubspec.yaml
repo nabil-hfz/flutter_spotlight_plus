@@ -4,6 +4,7 @@ version: 0.0.1
 author: Nabil Alhafez <nabil.alhfz98@gmail.com>
 homepage: https://github.com/nabil-hfz/flutter_spotlight_plus
 
+
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
